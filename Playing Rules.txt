@@ -1,0 +1,12 @@
+1. Guess the hidden number from 1-20
+
+2. Enter your guess in the input field and then click check.
+
+3. If your guess matches with hidden number then the hidden number will be displayed and you will win the game.
+
+4. If your guess becomes wrong then you will get a message on right side of the window to help you to guess another number which should either be greater than or less than your previous guess.
+
+5. This process continues till you either guess a correct number or your all 20 chances of guess will over.
+
+6. You can always start a new game by clicking on "Again" button.
+ 
